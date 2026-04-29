@@ -1,0 +1,1 @@
+// Content of main.js (update with the actual content of the file)
